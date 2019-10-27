@@ -1,0 +1,20 @@
+#SITE_FOOTERinlineContent .ddm1repeaterButtonlabel, #SITE_FOOTERinlineContent .color_15, .ddm1repeaterButtonlabel {
+    color: #fff;  // color for text in header/footer menu link
+}
+
+.ddm1repeaterButton[data-state~="selected"] .ddm1repeaterButtonlabel, .ddm1repeaterButton[data-preview~="active"] .ddm1repeaterButtonlabel {
+	color: rgba(0, 136, 203, 1)!important; // color for text in header/footer activ menu link
+} 
+
+.ddm1repeaterButton_wrapper {
+	border-top-color: #fff; // color fot border-top in header/footer menu link
+}
+
+.fc3inlineContent, .SITE_HEADER_i2nyw31sinlineContent {
+    background-color: #18453b;  // background-color for header/footer menu
+}
+
+.CntctFrm0_i0qtt02q input, .CntctFrm0_i0qtt02q textarea, .i0e51zkn_i0e5cybp input, .i0e51zkn_i0e5cybp textarea, .i0e51zkn_i0e5cybp button {
+	background-color: #18453b;   // background-color for input and textarea for contact form in contact page
+	color: #fff;	            // color text in input contact form in contact page
+}
